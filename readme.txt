@@ -8,3 +8,5 @@ Branch fast forward merge test
 Git stash
 This is readme.txt from learngit
 this is from dev branch
+this is a dev branch
+this is readme.txt from learngit1
